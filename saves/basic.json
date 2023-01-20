@@ -173,7 +173,7 @@
           "icon": {
               "type": "fa",
               "content": "blog",
-              "bg": ""
+              "bg": "compass"
           },
           "openMode": "normal",
           "plugin": false,
