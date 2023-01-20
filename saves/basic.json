@@ -172,8 +172,8 @@
           "desc": "fjqz177的博客",
           "icon": {
               "type": "fa",
-              "content": "blog",
-              "bg": "compass"
+              "content": "compass",
+              "bg": ""
           },
           "openMode": "normal",
           "plugin": false,
