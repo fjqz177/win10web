@@ -10,7 +10,7 @@
       "wallpaperSlideTime": 1519442460788,
       "wallpaperSlideIndex": 8,
       "openMax": 9,
-      "idCounter": 172,
+      "idCounter": 174,
       "themeColor": "rgba(2,35,64,1)",
       "autoThemeColor": true,
       "wallpapers": [
@@ -22,56 +22,8 @@
               "preview": "./res/img/wallpapers/bg1_1.jpg"
           },
           {
-              "image": "./res/img/wallpapers/bg2.jpg",
-              "preview": "./res/img/wallpapers/bg2_1.jpg"
-          },
-          {
-              "image": "./res/img/wallpapers/bg3.jpg",
-              "preview": "./res/img/wallpapers/bg3_1.jpg"
-          },
-          {
-              "image": "./res/img/wallpapers/bg4.jpg",
-              "preview": "./res/img/wallpapers/bg4_1.jpg"
-          },
-          {
-              "image": "./res/img/wallpapers/bg5.jpg",
-              "preview": "./res/img/wallpapers/bg5_1.jpg"
-          },
-          {
-              "image": "./res/img/wallpapers/bg6.jpg",
-              "preview": "./res/img/wallpapers/bg6_1.jpg"
-          },
-          {
-              "image": "./res/img/wallpapers/bg7.jpg",
-              "preview": "./res/img/wallpapers/bg7_1.jpg"
-          },
-          {
-              "image": "./res/img/wallpapers/bg8.jpg",
-              "preview": "./res/img/wallpapers/bg8_1.jpg"
-          },
-          {
-              "image": "./res/img/wallpapers/bg9.jpg",
-              "preview": "./res/img/wallpapers/bg9_1.jpg"
-          },
-          {
-              "image": "./res/img/wallpapers/bg10.jpg",
-              "preview": "./res/img/wallpapers/bg10_1.jpg"
-          },
-          {
-              "image": "./res/img/wallpapers/bg11.jpg",
-              "preview": "./res/img/wallpapers/bg11_1.jpg"
-          },
-          {
-              "image": "./res/img/wallpapers/bg12.jpg",
-              "preview": "./res/img/wallpapers/bg12_1.jpg"
-          },
-          {
               "image": "./res/img/wallpapers/bg13.jpg",
               "preview": "./res/img/wallpapers/bg13_1.jpg"
-          },
-          {
-              "image": "./res/img/wallpapers/bg14.jpg",
-              "preview": "./res/img/wallpapers/bg14_1.jpg"
           }
       ],
       "pathRes": "./res",
