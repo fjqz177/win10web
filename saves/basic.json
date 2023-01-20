@@ -10,7 +10,7 @@
       "wallpaperSlideTime": 1519442460788,
       "wallpaperSlideIndex": 8,
       "openMax": 9,
-      "idCounter": 177,
+      "idCounter": 181,
       "themeColor": "rgba(2,35,64,1)",
       "autoThemeColor": true,
       "wallpapers": [
@@ -74,7 +74,7 @@
           "icon": {
               "type": "fa",
               "content": "chrome",
-              "bg": "#3a55c2"
+              "bg": ""
           },
           "openMode": "normal",
           "plugin": false,
@@ -107,7 +107,7 @@
           "icon": {
               "type": "fa",
               "content": "shopping-bag",
-              "bg": "#b36aba"
+              "bg": ""
           },
           "openMode": "normal",
           "plugin": false,
@@ -172,10 +172,10 @@
           "desc": "fjqz177的博客",
           "icon": {
               "type": "fa",
-              "content": "fa-solid fa-blog",
+              "content": "blog",
               "bg": ""
           },
-          "openMode": "outer",
+          "openMode": "normal",
           "plugin": false,
           "position": {
               "autoOffset": true,
@@ -195,7 +195,7 @@
           "title": "fjqz177的博客",
           "url": "https://fjqz177.top/",
           "customTile": "https://fjqz177.top/",
-          "urlRandomToken": true
+          "urlRandomToken": false
       }
   },
   "shortcuts": [
